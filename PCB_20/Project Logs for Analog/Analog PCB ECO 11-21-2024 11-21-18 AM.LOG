@@ -1,0 +1,50 @@
+Removed Pin From Net: NetName=Speaker IN Pin=Final Amp-1
+Removed Pin From Net: NetName=GND Pin=J1-2
+Removed Pin From Net: NetName=GND Pin=J1-3
+Removed Pin From Net: NetName=Amplifier IN-Audio Pin=J2-1
+Removed Pin From Net: NetName=GND Pin=J2-2
+Removed Pin From Net: NetName=GND Pin=J2-3
+Removed Pin From Net: NetName=GND Pin=PIR1-3
+Removed Member From Class: ClassName=Analog Member=J1
+Removed Member From Class: ClassName=Analog Member=J2
+Change Component Comment : Designator=R1 Old Comment=CF18JT10K0 New Comment=22K
+Change Component Designator: OldDesignator=C3 NewDesignator=C3b-3.9n
+Change Component Designator: OldDesignator=C4 NewDesignator=C4b-100n
+Change Component Designator: OldDesignator=C5 NewDesignator=BC5-220n
+Change Component Designator: OldDesignator=C6 NewDesignator=C6b-39n
+Change Component Designator: OldDesignator=C7 NewDesignator=C7b-39n
+Change Component Designator: OldDesignator=C8 NewDesignator=C8b-3.9n
+Change Component Designator: OldDesignator=J4 NewDesignator=J4b-Mic
+Change Component Designator: OldDesignator=R2 NewDesignator=R2b
+Change Component Designator: OldDesignator=R6 NewDesignator=R6b-560
+Change Component Designator: OldDesignator=R7 NewDesignator=R7b-13k
+Change Component Designator: OldDesignator=R8 NewDesignator=R8b-13k
+Change Component Designator: OldDesignator=R9 NewDesignator=R9b-1M
+Change Component Designator: OldDesignator=R11 NewDesignator=R11b-470
+Change Component Designator: OldDesignator=R12 NewDesignator=R12b-22k
+Change Component Designator: OldDesignator=U2 NewDesignator=U2b
+Change Component Designator: OldDesignator=U3 NewDesignator=U3b
+Added Pin To Net: NetName=Amplifier IN-Audio Pin=J3-2
+Added Pin To Net: NetName=GND Pin=J3-4
+Added Pin To Net: NetName=GND Pin=J4b-Mic-4
+Added Pin To Net: NetName=Vref Pin=PIR1-3
+Change Net Name : Old Net Name=NetC3_1 New Net Name=NetC3b-3.9n_1
+Change Net Name : Old Net Name=NetC3_2 New Net Name=NetC3b-3.9n_2
+Change Net Name : Old Net Name=NetC4_1 New Net Name=NetC4b-100n_1
+Change Net Name : Old Net Name=NetC5_2 New Net Name=NetBC5-220n_2
+Change Net Name : Old Net Name=NetC6_2 New Net Name=NetC6b-39n_2
+Change Net Name : Old Net Name=NetC7_2 New Net Name=NetC7b-39n_2
+Change Net Name : Old Net Name=NetC8_2 New Net Name=NetC8b-3.9n_2
+Change Net Name : Old Net Name=NetR6_1 New Net Name=NetR6b-560_1
+Added Pin To Net: NetName=NetBC5-220n_1 Pin=BC5-220n-1
+Added Pin To Net: NetName=NetBC5-220n_1 Pin=J4b-Mic-1
+Added Pin To Net: NetName=NetBC5-220n_1 Pin=R2b-2
+Added Net: Name=NetBC5-220n_1
+Added Pin To Net: NetName=NetFinal Amp_1 Pin=Final Amp-1
+Added Pin To Net: NetName=NetFinal Amp_1 Pin=U8-8
+Added Net: Name=NetFinal Amp_1
+Added Member To Class: ClassName=Analog Member=Component R27 CF18JT10K0
+Added Member To Class: ClassName=Analog Member=Component R28 CF18JT10K0
+Added Member To Class: ClassName=Analog Member=Component R29 CF18JT10K0
+Added Member To Class: ClassName=Analog Member=Component R30 CF18JT10K0
+Added Member To Class: ClassName=Analog Member=Component U3b NE5532P

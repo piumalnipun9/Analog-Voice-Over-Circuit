@@ -1,0 +1,20 @@
+Change Footprint: Cannot match pads with new footprint in component :J1 Footprint:691101710003
+Added Component: Designator=C7(FP-RAD-TH-D_6_3_0_5-L_11-MFG)
+Added Component: Designator=Pre amp1(FP-B2B-XH-A_LF_SN-MFG)
+Added Component: Designator=R2(FP-CF18-MFG)
+Add Pin To Net: Unknown Pin: Pin C7-1
+Add Pin To Net: Unknown Pin: Pin C7-2
+Add Pin To Net: Unknown Pin: Pin Pre amp1-1
+Add Pin To Net: Unknown Pin: Pin Pre amp1-2
+Add Pin To Net: Unknown Pin: Pin R2-1
+Add Pin To Net: Unknown Pin: Pin R2-2
+Add Class Member: Failed to add class member : Component C7 100uF
+Added Member To Class: ClassName=Analog Member=Component C9 100uF
+Added Member To Class: ClassName=Analog Member=Component C11 100uF
+Added Member To Class: ClassName=Analog Member=Component C12 100uF
+Added Member To Class: ClassName=Analog Member=Component C13 100uF
+Added Member To Class: ClassName=Analog Member=Component C14 100uF
+Added Member To Class: ClassName=Analog Member=Component C15 22pF
+Add Class Member: Failed to add class member : Component Pre amp1 B2B-XH-A(LF)(SN)
+Added Member To Class: ClassName=Analog Member=Component R1 10K
+Add Class Member: Failed to add class member : Component R2 22K

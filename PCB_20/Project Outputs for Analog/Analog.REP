@@ -1,0 +1,420 @@
+*************************************************************
+FileName = Analog.GBR
+AutoAperture = True
+*************************************************************
+Generating : Top Component Center
+      File : Analog.GM16
+
+    Adding Layer      : Top Component Center
+
+
+Used DCodes :
+    D60
+    D61
+*************************************************************
+
+*************************************************************
+Generating : Top Courtyard
+      File : Analog.GM15
+
+    Adding Layer      : Top Courtyard
+
+
+Used DCodes :
+    D10
+    D60
+    D61
+*************************************************************
+
+*************************************************************
+Generating : Top 3D Body
+      File : Analog.GM13
+
+    Adding Layer      : Top 3D Body
+
+
+Used DCodes :
+    D10
+    D13
+    D14
+    D60
+*************************************************************
+
+*************************************************************
+Generating : Top Component Outline
+      File : Analog.GM11
+
+    Adding Layer      : Top Component Outline
+
+
+Used DCodes :
+    D60
+*************************************************************
+
+*************************************************************
+Generating : Top Assembly
+      File : Analog.GM5
+
+    Adding Layer      : Top Assembly
+
+
+Used DCodes :
+    D10
+*************************************************************
+
+*************************************************************
+Generating : Top Designator
+      File : Analog.GM3
+
+    Adding Layer      : Top Designator
+
+
+Used DCodes :
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : Analog.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D59
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : Analog.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : Analog.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D17
+    D18
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : Analog.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : Analog.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : Analog.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : Analog.GPT
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D17
+    D18
+    D21
+    D24
+    D25
+    D26
+    D28
+    D29
+    D30
+    D32
+    D34
+    D35
+    D39
+    D40
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : Analog.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D21
+    D24
+    D25
+    D26
+    D28
+    D29
+    D30
+    D32
+    D34
+    D35
+    D39
+    D40
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : Analog.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D21
+    D24
+    D25
+    D26
+    D28
+    D29
+    D30
+    D32
+    D34
+    D35
+    D39
+    D40
+    D44
+    D46
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : Analog.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D17
+    D18
+    D21
+    D24
+    D25
+    D26
+    D28
+    D29
+    D30
+    D32
+    D34
+    D35
+    D39
+    D40
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : Analog.GD1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D14
+    D62
+    D63
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : Analog.GD3
+
+    Adding Drill Pair : Counterholes Top
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D14
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : Analog.GG1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D14
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : Analog.GG3
+
+    Adding Drill Pair : Counterholes Top
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D14
+*************************************************************
+
+*************************************************************
+Generating : Profile
+      File : Analog.GM
+
+
+Used DCodes :
+    D64
+*************************************************************
+

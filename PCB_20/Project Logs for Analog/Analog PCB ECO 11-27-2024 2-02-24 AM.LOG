@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=NetD1_2 Pin=U4-1
+Removed Pin From Net: NetName=NetD1_1 Pin=U4-2
+Removed Pin From Net: NetName=GND Pin=U4-3
+Removed Pin From Net: NetName=-12 Pin=U4-4
+Removed Pin From Net: NetName=GND Pin=U4-5
+Removed Pin From Net: NetName=NetR12_2 Pin=U4-6
+Removed Pin From Net: NetName=NetR12_1 Pin=U4-7
+Removed Pin From Net: NetName=+12 Pin=U4-8
+Removed Member From Class: ClassName=Analog Member=U4
+Added Component: Designator=U?(P0008A)
+Added Component: Designator=U?(P0008A)
+Add Pin To Net: Unknown Pin: Pin U?-1
+Add Pin To Net: Unknown Pin: Pin U?-2
+Add Pin To Net: Unknown Pin: Pin U?-3
+Add Pin To Net: Unknown Pin: Pin U?-4
+Add Pin To Net: Unknown Pin: Pin U?-4
+Add Pin To Net: Unknown Pin: Pin U?-5
+Add Pin To Net: Unknown Pin: Pin U?-6
+Add Pin To Net: Unknown Pin: Pin U?-7
+Add Pin To Net: Unknown Pin: Pin U?-8
+Add Pin To Net: Unknown Pin: Pin U?-8
+Added Member To Class: ClassName=Analog Member=Component C8 470uF
+Add Class Member: Failed to add class member : Component U? NE5532P
+Add Class Member: Failed to add class member : Component U? NE5532P

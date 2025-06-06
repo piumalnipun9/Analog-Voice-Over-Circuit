@@ -1,0 +1,84 @@
+Removed Pin From Net: NetName=NetC3_2 Pin=C4-1
+Removed Pin From Net: NetName=NetC8_2 Pin=C8-2
+Removed Pin From Net: NetName=NetC14_1 Pin=C15-2
+Removed Pin From Net: NetName=NetC3_1 Pin=J3-1
+Removed Pin From Net: NetName=NetC14_2 Pin=J6-1
+Removed Pin From Net: NetName=NetC3_1 Pin=R2-2
+Removed Pin From Net: NetName=NetC3_2 Pin=R7-1
+Removed Pin From Net: NetName=NetC14_1 Pin=U6-5
+Removed Member From Class: ClassName=Analog Member=C?
+Change Component Footprint: Designator=C14 Old Footprint=CAPPR60-500-1250X1000X1350 New Footprint=FP-RAD-TH-D_8_0_5-L_11_5-MFG
+Change Component Footprint: Designator=C3 Old Footprint=NIC-PLF-10x13-2_V New Footprint=FP-RAD-TH-D_8_0_5-L_11_5-MFG
+Change Component Comment : Designator=C? Old Comment=EEUFR1C471B New Comment=470uF
+Change Component Designator: OldDesignator=C? NewDesignator=C8
+Change Managed Component Library Link : Designator=C3 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=7DD0F93D-6E65-420D-9EAE-78F2AA877692 New ItemGUID=2C797A86-030B-4150-97BE-AEDC59FCCE5B Old RevisionGUID=502F0D30-929F-4EFF-99D7-A62FCCC706C1 New RevisionGUID=F03398DF-8207-4C62-B940-7B1B49BAB3AF
+Change Managed Component Library Link : Designator=C14 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=A6CD731D-C659-4A33-8AF6-D34DDF36E7F0 New ItemGUID=2C797A86-030B-4150-97BE-AEDC59FCCE5B Old RevisionGUID=E41DF229-7B75-419D-BB3D-C2AB6A370124 New RevisionGUID=F03398DF-8207-4C62-B940-7B1B49BAB3AF
+Change component parameters: Designator = "C3" ("C3"); Footprint = "NIC-PLF-10x13-2_V"; UniqueID = "\WOYPNCGR" ("\WOYPNCGR")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "470uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "Radial"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Diameter"; Value = "8mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ESR (Equivalent Series Resistance)"; Value = "56mR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Features"; Value = "General Purpose"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "11.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height - Seated (Max)"; Value = "0.512inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Impedance"; Value = "56mR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Diameter"; Value = "0.6mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Pitch"; Value = "5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "11.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Life (Hours)"; Value = "6000Hour"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "105°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Ammo Pack"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ripple Current"; Value = "950mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "FR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination"; Value = "Radial"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "16V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating (DC)"; Value = "16V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C14" ("C14"); Footprint = "CAPPR60-500-1250X1000X1350"; UniqueID = "\AVMFKCRG" ("\AVMFKCRG")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "470uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "Radial"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Diameter"; Value = "8mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ESR (Equivalent Series Resistance)"; Value = "56mR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Features"; Value = "General Purpose"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "11.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height - Seated (Max)"; Value = "0.512inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Impedance"; Value = "56mR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Diameter"; Value = "0.6mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Pitch"; Value = "5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "11.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Life (Hours)"; Value = "6000Hour"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "105°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Ammo Pack"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ripple Current"; Value = "950mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "FR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination"; Value = "Radial"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "16V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating (DC)"; Value = "16V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC3_1 Pin=C4-1
+Added Pin To Net: NetName=NetC8_2 Pin=C8-1
+Added Pin To Net: NetName=NetC14_2 Pin=C15-2
+Added Pin To Net: NetName=NetC3_2 Pin=J3-1
+Added Pin To Net: NetName=NetC14_1 Pin=J6-1
+Added Pin To Net: NetName=NetC3_2 Pin=R2-2
+Added Pin To Net: NetName=NetC3_1 Pin=R7-1
+Added Pin To Net: NetName=NetC14_2 Pin=U6-5
+Change Net Name : Old Net Name=NetC8_2 New Net Name=NetC8_1
+Added Pin To Net: NetName=NetC8_2 Pin=C8-2
+Added Pin To Net: NetName=NetC8_2 Pin=C10-2
+Added Pin To Net: NetName=NetC8_2 Pin=U3-5
+Added Net: Name=NetC8_2

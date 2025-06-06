@@ -1,0 +1,103 @@
+Removed Pin From Net: NetName=+12 Pin=R1-1
+Removed Pin From Net: NetName=NetC3_1 Pin=R1-2
+Removed Pin From Net: NetName=Amplifier IN-Mic Pin=U1-1
+Removed Pin From Net: NetName=Amplifier IN-Mic Pin=U1-2
+Removed Pin From Net: NetName=NetC2_2 Pin=U1-3
+Removed Pin From Net: NetName=NetC5_2 Pin=U2-3
+Removed Member From Class: ClassName=Analog Member=J?
+Removed Member From Class: ClassName=Analog Member=K?
+Change Footprint: Cannot match pads with new footprint in component :J1 Footprint:691101710003
+Change Component Comment : Designator=Q1 Old Comment=2N3904BU New Comment=
+Change Component Comment : Designator=C1 Old Comment=22pF New Comment=3.9nF
+Change Component Comment : Designator=C6 Old Comment=22pF New Comment=3.9nF
+Change Component Comment : Designator=C5 Old Comment=22pF New Comment=39nF
+Change Component Comment : Designator=C2 Old Comment=22pF New Comment=100nF
+Change Component Comment : Designator=R22 Old Comment=CF18JT10K0 New Comment=1K
+Change Component Comment : Designator=R24 Old Comment=CF18JT10K0 New Comment=1K
+Change Component Comment : Designator=R25 Old Comment=CF18JT10K0 New Comment=1k
+Change Component Comment : Designator=R6 Old Comment=CF18JT10K0 New Comment=1M
+Change Component Comment : Designator=R23 Old Comment=CF18JT10K0 New Comment=3.3K
+Change Component Comment : Designator=R2 Old Comment=CF18JT10K0 New Comment=10K
+Change Component Comment : Designator=R9 Old Comment=CF18JT10K0 New Comment=10K
+Change Component Comment : Designator=R? Old Comment=CF18JT10K0 New Comment=10K
+Change Component Comment : Designator=R4 Old Comment=CF18JT10K0 New Comment=13K
+Change Component Comment : Designator=R5 Old Comment=CF18JT10K0 New Comment=13K
+Change Component Comment : Designator=R8 Old Comment=CF18JT10K0 New Comment=22K
+Change Component Comment : Designator=R3 Old Comment=CF18JT10K0 New Comment=560
+Change Component Designator: OldDesignator=C7 NewDesignator=C8
+Change Component Designator: OldDesignator=C8 NewDesignator=C9
+Change Component Designator: OldDesignator=C9 NewDesignator=C10
+Change Component Designator: OldDesignator=C10 NewDesignator=C11
+Change Component Designator: OldDesignator=C11 NewDesignator=C12
+Change Component Designator: OldDesignator=C12 NewDesignator=C13
+Change Component Designator: OldDesignator=C13 NewDesignator=C14
+Change Component Designator: OldDesignator=C14 NewDesignator=C15
+Change Component Designator: OldDesignator=C15 NewDesignator=C16
+Change Component Designator: OldDesignator=Final Amp2 NewDesignator=J6
+Change Component Designator: OldDesignator=Final Amp? NewDesignator=J2
+Change Component Designator: OldDesignator=J2 NewDesignator=J3
+Change Component Designator: OldDesignator=J3 NewDesignator=J4
+Change Component Designator: OldDesignator=R2 NewDesignator=R1
+Change Component Designator: OldDesignator=R? NewDesignator=R10
+Change Component Designator: OldDesignator=Speaker1 NewDesignator=J5
+Added Component: Designator=C7(FP-RAD-TH-D_6_3_0_5-L_11-MFG)
+Added Component: Designator=K1(AZ9431CH24DE)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.azettler.com/pdfs/az943.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "15.95mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Zettler Group"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "AZ943-1CH-24DE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Pre amp1(FP-B2B-XH-A_LF_SN-MFG)
+Added Component: Designator=R2(FP-CF18-MFG)
+Add Pin To Net: Unknown Pin: Pin C7-1
+Add Pin To Net: Unknown Pin: Pin C7-2
+Added Pin To Net: NetName=Speaker IN Pin=K1-1
+Added Pin To Net: NetName=Amplifier IN-Mic Pin=K1-3
+Added Pin To Net: NetName=Amplifier IN-Audio Pin=K1-4
+Added Pin To Net: NetName=+12 Pin=K1-5
+Add Pin To Net: Unknown Pin: Pin R2-1
+Add Pin To Net: Unknown Pin: Pin R2-2
+Added Pin To Net: NetName=NetC5_2 Pin=U1-3
+Added Pin To Net: NetName=Amplifier IN-Mic Pin=U2-1
+Added Pin To Net: NetName=Amplifier IN-Mic Pin=U2-2
+Added Pin To Net: NetName=NetC2_2 Pin=U2-3
+Change Net Name : Old Net Name=NetC7_1 New Net Name=NetC8_1
+Change Net Name : Old Net Name=NetC7_2 New Net Name=NetC8_2
+Change Net Name : Old Net Name=NetC8_2 New Net Name=NetC9_2
+Change Net Name : Old Net Name=NetC9_1 New Net Name=NetC10_1
+Change Net Name : Old Net Name=NetC10_2 New Net Name=NetC11_2
+Change Net Name : Old Net Name=NetC12_1 New Net Name=NetC13_1
+Change Net Name : Old Net Name=NetC12_2 New Net Name=NetC13_2
+Change Net Name : Old Net Name=NetC13_1 New Net Name=NetC14_1
+Change Net Name : Old Net Name=NetC13_2 New Net Name=NetC14_2
+Change Net Name : Old Net Name=NetC14_1 New Net Name=NetC15_1
+Change Net Name : Old Net Name=NetC15_2 New Net Name=NetC16_2
+Change Net Name : Old Net Name=NetFinal Amp2_1 New Net Name=NetJ6_1
+Change Net Name : Old Net Name=NetFinal Amp?_1 New Net Name=NetJ1_2
+Change Net Name : Old Net Name=NetR8_2 New Net Name=NetC7_2
+Added Pin To Net: NetName=NetC9_1 Pin=C9-1
+Added Net: Name=NetC9_1
+Added Pin To Net: NetName=NetK1_2 Pin=K1-2
+Added Pin To Net: NetName=NetK1_2 Pin=Q1-3
+Added Pin To Net: NetName=NetK1_2 Pin=R22-1
+Added Net: Name=NetK1_2
+Added Pin To Net: NetName=NetPre amp1_1 Pin=U3-8
+Added Net: Name=NetPre amp1_1
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR1_1 Pin=R4-2
+Added Pin To Net: NetName=NetR1_1 Pin=U1-1
+Added Pin To Net: NetName=NetR1_1 Pin=U1-2
+Added Net: Name=NetR1_1
+Added Member To Class: ClassName=Analog Member=Component C11 100uF
+Added Member To Class: ClassName=Analog Member=Component C16 100uF
+Added Member To Class: ClassName=Analog Member=Component K1 AZ943-1CH-24DE
+Add Class Member: Failed to add class member : Component Pre amp1 B2B-XH-A(LF)(SN)
+Added Member To Class: ClassName=Analog Member=Component R10 10K
+Added Member To Class: ClassName=Analog Member=Component R14 CF18JT10K0
+Added Member To Class: ClassName=Analog Member=Component R17 CF18JT10K0
+Added Member To Class: ClassName=Analog Member=Component R21 3296W-1-103LF
+Added Member To Class: ClassName=Analog Member=Component U5 NE5532P
+Added Member To Class: ClassName=Analog Member=Component U6 LM386N-3/NOPB

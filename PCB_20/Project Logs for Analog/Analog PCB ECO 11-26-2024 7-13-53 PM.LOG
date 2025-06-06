@@ -1,0 +1,14 @@
+Removed Member From Class: ClassName=Analog Member=R?
+Change Component Footprint: Designator=K1 Old Footprint=AZ9431CH24DE New Footprint=AZ9431CH12DE
+Change Component Comment : Designator=C10 Old Comment=22pF New Comment=47nF
+Change Component Comment : Designator=R18 Old Comment=CF18JT10K0 New Comment=10
+Change Component Comment : Designator=R16 Old Comment=CF18JT10K0 New Comment=18
+Change component parameters: Designator = "K1" ("K1"); Footprint = "AZ9431CH24DE"; UniqueID = "\QHYSJXTP" ("\QHYSJXTP")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://www.azettler.com/pdfs/az943.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "15.95mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Zettler Group"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "AZ943-1CH-12DE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
