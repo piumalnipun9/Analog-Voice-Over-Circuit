@@ -56,18 +56,36 @@ The final step involves the **main amplifier**, which amplifies the selected aud
 
 ## **Visuals of the Project**
 
+<div style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap;">
 
+  <!-- PCB -->
+  <div style="text-align: center;">
+    <img src="https://github.com/ThilinaNirmalBandara/Analog-Voice-Over-Device/blob/e1cf411c256b8b1af5544d0714d4765a2282a1cc/pcb.jpeg?raw=true" width="220"/>
+    <div>PCB Design</div>
+  </div>
 
-- **PCB Design:**  
-  ![PCB Design](https://github.com/ThilinaNirmalBandara/Analog-Voice-Over-Device/blob/e1cf411c256b8b1af5544d0714d4765a2282a1cc/pcb.jpeg)
-  
-- **Product Images:**  
-  ![Product Images](https://github.com/ThilinaNirmalBandara/Analog-Voice-Over-Device/blob/318dd59bc88416f0e50e63e3511de1af58523332/enc.jpeg)
-  ![Product Images](https://github.com/ThilinaNirmalBandara/Analog-Voice-Over-Device/blob/30659c403599d065a72fd0dfa7f771a78b525c63/enc1.jpeg)
-  ![Product Images](https://github.com/ThilinaNirmalBandara/Analog-Voice-Over-Device/blob/1a46847465cda73cc1463e89158aae374ca129cb/enc3.jpg)
-  
-- **Signal Flow Diagram:**  
-  ![Signal Flow Diagram](https://github.com/ThilinaNirmalBandara/Analog-Voice-Over-Device/blob/679a9b1e865f342f0b4994b55c33be4710e8329a/SignalFlow.jpg)
+  <!-- Product Image 1 -->
+  <div style="text-align: center;">
+    <img src="https://github.com/ThilinaNirmalBandara/Analog-Voice-Over-Device/blob/318dd59bc88416f0e50e63e3511de1af58523332/enc.jpeg?raw=true" width="220"/>
+    <div>Product Image (Front View)</div>
+  </div>
+
+  <!-- Product Image 2 + 3 combined -->
+  <div style="text-align: center;">
+    <img src="https://github.com/ThilinaNirmalBandara/Analog-Voice-Over-Device/blob/30659c403599d065a72fd0dfa7f771a78b525c63/enc1.jpeg?raw=true" width="105"/>
+    <img src="https://github.com/ThilinaNirmalBandara/Analog-Voice-Over-Device/blob/1a46847465cda73cc1463e89158aae374ca129cb/enc3.jpg?raw=true" width="105"/>
+    <div>Product Images (Side & Rear Views)</div>
+  </div>
+
+</div>
+
+<br/>
+
+<!-- Signal Flow Diagram -->
+<div style="text-align: center; margin-top: 30px;">
+  <img src="https://github.com/ThilinaNirmalBandara/Analog-Voice-Over-Device/blob/679a9b1e865f342f0b4994b55c33be4710e8329a/SignalFlow.jpg?raw=true" width="500"/>
+  <div>Signal Flow Diagram</div>
+</div>
 
 ---
 ![Video Demo](https://github.com/ThilinaNirmalBandara/Analog-Voice-Over-Device/blob/0a98f55dccdce1c27985faf1868a9e6a9666198b/test%20video.mp4)
